@@ -1,5 +1,6 @@
 1. Pendahuluan
-Website ini adalah aplikasi toko online yang dibangun menggunakan Laravel dan Livewire dengan integrasi Midtrans untuk sistem pembayaran. Website ini dirancang untuk memfasilitasi proses pembelian dan checkout secara efisien, namun untuk bagian antar muka pengguna masih sangat sederhana
+Website ini adalah aplikasi toko online yang dibangun menggunakan Laravel dan Livewire dengan integrasi Midtrans untuk sistem pembayaran.
+Website ini dirancang untuk memfasilitasi proses pembelian dan checkout secara efisien, namun untuk bagian antar muka pengguna masih sangat sederhana
 dikarenakan website ini bertujuan untuk pembelajaran dan latihan semata. 
 
 3. Bagian Admin
@@ -83,4 +84,6 @@ Git: Versi kontrol untuk mengelola kode sumber.
 GitHub: Platform untuk hosting repository dan kolaborasi tim.
 
 10. Penutup
-Website ini dirancang untuk memberikan pengalaman pengguna yang optimal dengan fitur-fitur yang mendukung administrasi toko, manajemen produk, dan pemrosesan pembayaran. Pastikan untuk memperbarui kunci API dan konfigurasi sesuai kebutuhan saat memindahkan aplikasi ke lingkungan produksi.
+Website ini dirancang untuk memberikan pengalaman pengguna yang optimal dengan fitur-fitur yang mendukung administrasi toko,
+manajemen produk, dan pemrosesan pembayaran.
+Pastikan untuk memperbarui kunci API dan konfigurasi sesuai kebutuhan saat memindahkan aplikasi ke lingkungan produksi.
